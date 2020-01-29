@@ -76,3 +76,12 @@ C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\bin\EntityFramew
 C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\bin\EntityFramework.SqlServer.dll
 C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\bin\EntityFramework.xml
 C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\obj\Debug\KurumsalWeb.csproj.GenerateResource.cache
+C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\bin\en\KurumsalWeb.resources.dll
+C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\obj\Debug\en\KurumsalWeb.resources.dll
+C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\bin\Resources\Admin.resx
+C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\bin\Resources\Admin.en.resx
+C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\bin\Resources\Admin.en.Designer.cs
+C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\bin\Resources\Admin.Designer.cs
+C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\obj\Debug\KurumsalWeb.Resources.Admin.resources
+C:\Users\BERFIN\Desktop\Web Programlama\KurumsalWeb\KurumsalWeb\obj\Debug\KurumsalWeb.Resources.Admin.en.resources
